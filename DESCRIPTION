@@ -1,0 +1,16 @@
+Package: ENRanalyticsS3
+Type: Package
+Title: Getting data from Redshift via S3
+Version: 0.1.0
+Author: Emilia Pankowska
+Maintainer: Emilia Pankowska <emilia.pankowska@pearson.com>
+Description: 
+License: 
+Encoding: UTF-8
+LazyData: true
+Suggests: testthat,
+    knitr,
+    rmarkdown
+Imports: dplyr
+RoxygenNote: 6.0.1
+VignetteBuilder: knitr

@@ -1,0 +1,28 @@
+Package: ENRanalytics
+Type: Package
+Title: A package facilitating common E&R data processing tasks
+Version: 1.2
+Date: 2015-02-15
+Author: Mikolaj Bogucki
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: More about what it does (maybe more than one line)
+License: GPL-2
+Imports: ggplot2 (>= 2.1.0), RColorBrewer, lazyeval, grid, extrafont,
+        extrafontdb, gridExtra, foreach, doParallel, rmarkdown,
+        parallel, iterators, beepr, magrittr, DT, formattable
+URL: https://github.com/AMUFacultyOfEnglish/ENRanalytics
+BugReport: https://github.com/AMUFacultyOfEnglish/ENRanalytics/issues
+Suggests: knitr
+VignetteBuilder: knitr
+RoxygenNote: 5.0.1
+Built: R 3.3.2; ; 2017-09-27 13:26:41 UTC; unix
+RemoteType: github
+RemoteHost: https://api.github.com
+RemoteRepo: ENRanalytics
+RemoteUsername: AMUFacultyOfEnglish
+RemoteRef: master
+RemoteSha: 233865984bcf52668348ebaaa7f5be3c083f1f21
+GithubRepo: ENRanalytics
+GithubUsername: AMUFacultyOfEnglish
+GithubRef: master
+GithubSHA1: 233865984bcf52668348ebaaa7f5be3c083f1f21

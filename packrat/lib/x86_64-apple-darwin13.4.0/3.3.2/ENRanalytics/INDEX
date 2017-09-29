@@ -1,0 +1,40 @@
+boot_ci                 Compute confidence interval
+boot_ci_parallel        Compute confidence interval by Mikolaj
+                        Olszewski (using foreach)
+cat_colors              20 different color - categorical group. It is
+                        useful with work with scatterplot, boxplot or
+                        line. previous name: categorical_colors
+createCustomDt          Create DT table with formattable options.
+datatable_enr           Create datatable in ENR style
+div_colors              11 different color - diverging group (from Red
+                        to Blue). It is useful with work with barplot
+                        or mapplot. previous name: diverging_colors
+draw_scale_manual       Change color from categorical colors to
+                        diverging/sequential colors
+draw_scale_numeric      Manipulate value of text in given axis.
+geom_iecdf              create a plot with inverse empirical cumulative
+                        distribution function
+get_html_data           Create HTML format data. Useful with
+                        datable_enr function.
+legend_enr              E&R legend - put legend inside a plot.
+notify                  Notify when a function was executed
+p_colors                4 different colors - Pearson colors
+p_colors2               8 different colors - Pearson colors (second
+                        palette)
+pair_colors             6 pair colors - It is useful with work with
+                        scatterplot, boxplot or line.
+quar_colors             4 quartet colors - It is useful with work with
+                        scatterplot, boxplot or line.
+sampler                 Draw sample with replace = T
+save_plot               Function for saving a plot.
+save_plot2              Function for saving a plot in pdf and png
+                        format at once.
+save_plot_grid          Function for saving a plot (when it is not
+                        ggobject).
+seq_colors              9 different colors - sequential group (Blue
+                        gradient). It is useful with work with barplot
+                        or mapplot. previous name: sequential_colors
+theme_enr               E&R theme for all plots in presentation
+theme_peru              PERU theme for all plots in presentation
+trio_colors             6 trio colors - It is useful with work with
+                        scatterplot, boxplot or line.

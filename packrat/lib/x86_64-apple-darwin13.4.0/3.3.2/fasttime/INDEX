@@ -1,0 +1,2 @@
+fastPOSIXct             Fast version of 'as.POSIXct.character' for GMT
+                        fixed format.

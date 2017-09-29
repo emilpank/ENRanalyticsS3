@@ -1,0 +1,5 @@
+ENRanalyticsS3          ENRanalyticsS3 pakiet do ściagania danych z S3
+fun2                    Druga funkcja w pliku
+hello                   Hello, World!
+hello2                  Funkcja testowa do tetowania testthat
+set_db_conn             Set connection to redshift database.
